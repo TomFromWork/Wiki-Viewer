@@ -1,0 +1,21 @@
+.card {
+  display: none;
+  height: 100%;
+}
+
+.hero.is-primary .card .title,
+.hero.is-primary .card .subtitle {
+  color: #000000;
+}
+
+.hero-head {
+  padding-top: 50px;
+}
+
+.columns {
+  margin-bottom: 50px;
+}
+
+#title {
+  padding-bottom: 10px;
+}
